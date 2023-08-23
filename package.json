@@ -1,0 +1,9 @@
+{
+    "type": "module",
+    "dependencies": {
+        "deepai": "^1.0.23",
+        "dotenv": "^16.3.1",
+        "package.json": "^0.0.0",
+        "replicate": "^0.16.1"
+    }
+}
